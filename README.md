@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+this web app was made to demonstrate my ability to fix code make it flow better on the page when youre reading through code fix some of the links so that the will direct you to the right sections on the page and add alt elements so that it allows people with disabilities to use screen readers
